@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Apoorv Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="centre" alt="coding" width="600"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952yrm2x3q4a0ryw1vq351ulyfpw1lzdiroqtm587j5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="centre" alt="coding" width="400"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952yrm2x3q4a0ryw1vq351ulyfpw1lzdiroqtm587j5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
-<img align="right" alt="coding" width="400"   src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="coding" width="200"   src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 
 
