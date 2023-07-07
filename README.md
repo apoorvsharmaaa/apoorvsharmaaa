@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **apoorvsharma0708@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/15vdo6KMZ0-rEC3LMzq1x3gF9gE1U9TmS](https://drive.google.com/drive/u/0/folders/15vdo6KMZ0-rEC3LMzq1x3gF9gE1U9TmS)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/15vdo6KMZ0-rEC3LMzq1x3gF9gE1U9TmS](https://drive.google.com/file/d/1b7nVjiZbUD-KP8BlgpKHBBdh57gENOMq/view?usp=drive_link)
 
 - ⚡ Fun fact **I like to write rap musics.**
 
